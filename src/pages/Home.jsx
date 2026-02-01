@@ -16,7 +16,7 @@ const Home = () => {
       transition={{ duration: 0.5 }}
     >
       <div className="home">
-        <img src="../images/profile.png" alt="" />
+        <img src="/images/profile.png" alt="" />
         <h1>Hi, Im Harish</h1>
         <h3>React Developer</h3>
         <p>I build modern web applications using React</p>
@@ -24,7 +24,7 @@ const Home = () => {
           <Link to="/projects">
             <button>View Projects</button>
           </Link>
-          <a href="/Resume.pdf" download>
+          <a href="/resumewithpic.pdf" download>
             <button>Download Resume</button>
           </a>
         </div>
