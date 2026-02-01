@@ -18,7 +18,7 @@ const About = () => {
         transition={{ duration: 0.5 }}
       >
         <div className="about">
-          <img src="../public/images/profile.png" alt="" />
+          <img src="../public/images/profile.png" alt="profile" />
           <div className="about-content">
             <h1>
               <span style={{ color: "whitesmoke" }}>H</span>ARISH
