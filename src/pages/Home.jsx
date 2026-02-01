@@ -24,7 +24,7 @@ const Home = () => {
           <Link to="/projects">
             <button>View Projects</button>
           </Link>
-          <a href="/HarishResumeWithPic.pdf" download>
+          <a href="/Resume.pdf" download>
             <button>Download Resume</button>
           </a>
         </div>
